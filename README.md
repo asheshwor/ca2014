@@ -8,4 +8,4 @@ Recommended browsers: Chrome, Safari, Firefox, Opera and IE10
 
 ### License for Reveal.js framework
 
-This repository contains the code of [Reveal.js](https://github.com/hakimel/reveal.js) licensed under the [MIT license](https://github.com/asheshwor/adapt2014/blob/master/LICENSE).
+This repository contains the code of [Reveal.js](https://github.com/hakimel/reveal.js) licensed under the [MIT license](https://github.com/asheshwor/ca2014/blob/master/LICENSE).

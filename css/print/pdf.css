@@ -188,3 +188,17 @@ ul, ol, div, p {
 .reveal small a {
 	font-size: 16pt !important;
 }
+
+/*********************************************
+ * SLIDE NUMBER
+ *********************************************/
+.reveal .slide-number {
+    font-family: "Exo", sans-serif;
+    font-size: 18px;
+    width: 50px;
+    text-align: center;
+    color: #000; 
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+    z-index:500;}

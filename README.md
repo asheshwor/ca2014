@@ -1,6 +1,6 @@
 ##Presentation for Climate Adaptation Futures Conference - 2014
 
-This repository contains the presentation files for my presentation at Climate Adaptation Futures Conference - 2014 to be held on from 28 September 2014 to 2 October 2014.
+This repository contains the presentation files for my presentation at Climate Adaptation Futures Conference - 2014 to be held on from 28 September 2014 to 2 October 2014. Link to abstract is here: [https://yrd.conference-services.net/reports/template/onetextabstract.xml?xsl=template/onetextabstract.xsl&conferenceID=4046&abstractID=844202](https://yrd.conference-services.net/reports/template/onetextabstract.xml?xsl=template/onetextabstract.xsl&conferenceID=4046&abstractID=844202)
 
 View the presentation at [http://asheshwor.github.io/ca2014](http://asheshwor.github.io/ca2014/#/)
 
